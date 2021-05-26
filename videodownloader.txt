@@ -1,0 +1,6 @@
+{
+"video_intertitial" : "ca-app-pub-4736587958823322/3405331651",
+"video_banner"      : "ca-app-pub-4736587958823322/7603241747",
+"video_native"      : "ca-app-pub-4736587958823322/2090032943",
+"video_open"        : "ca-app-pub-4736587958823322/7150787931"
+}
