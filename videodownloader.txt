@@ -1,6 +1,6 @@
 {
-"video_intertitial" : "ca-app-pub-4736587958823322/3405331651",
-"video_banner"      : "ca-app-pub-4736587958823322/7603241747",
-"video_native"      : "ca-app-pub-4736587958823322/2090032943",
-"video_open"        : "ca-app-pub-4736587958823322/7150787931"
+"video_intertitial" : "ca-app-pub-3940256099942544/1033173712",
+"video_banner"      : "ca-app-pub-3940256099942544/6300978111",
+"video_native"      : "ca-app-pub-3940256099942544/2247696110",
+"video_open"        : "ca-app-pub-3940256099942544/3419835294"
 }
